@@ -10,4 +10,4 @@ In this project we are predicting the confidence of the Forest Fire based on som
 # Model
 We are using Random Forest Regression model and train that model using the dataset.
 
-Also, we will see RandomSearchCV in action and how we have implemented it.
+Also, we will see RandomSearchCV in action and how we have implemented it. 
